@@ -6,7 +6,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\site</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHcBEMiITxUaWHS+XivSBqgAAAAACAAAAAAAQZgAAAAEAACAAAACeLHEb8wAs6FhBRJcJS9qlrqv7CvHtADcubHyA4AkjGwAAAAAOgAAAAAIAACAAAAAwDeNyTPOUJOOypdHlqOcopouxyyUJZ8jkYvXIMm3GzCAAAACDEDV5zL3o9jK2dPTIdocmidOccdK9uzQudOhdOtyRMkAAAAAKfNQBhz43zMrinnTOo28uKYZDZ4mzN7fxR15b7HEKwF3MLHYbezHCrldrdEhIs9Jc6OhK0ysT1hwjC6lnV2M+</EncryptedPassword>
+    <_PublishTargetUrl>ftp://localhost/site</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="About.aspx">
@@ -79,10 +80,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/06/2017 16:06:55</publishTime>
     </File>
     <File Include="bin/Demo1.dll">
-      <publishTime>06/06/2017 17:01:13</publishTime>
+      <publishTime>06/07/2017 15:23:17</publishTime>
     </File>
     <File Include="bin/Demo1.pdb">
-      <publishTime>06/06/2017 17:01:13</publishTime>
+      <publishTime>06/07/2017 15:23:17</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>06/06/2017 16:07:03</publishTime>
@@ -361,7 +362,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>06/06/2017 16:05:59</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>06/06/2017 17:14:37</publishTime>
+      <publishTime>06/07/2017 15:23:19</publishTime>
     </File>
   </ItemGroup>
 </Project>
